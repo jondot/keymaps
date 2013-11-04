@@ -1,6 +1,6 @@
 # ReSharper/VisualStudio/OSX Keymap for Intellij IDEA
 
-Default Intellij keymap is based on Borland. That's way too old. ReSharper has the best keymap I've bumped upon in an IDE, and Visual Studio makes some sense as well.
+Default Intellij keymap is based on Borland. That's way too old. ReSharper has the best keymap I've yet to bump into on an IDE, and Visual Studio makes some sense as well.
 
 I've combined the two and made it work for OSX.
 
