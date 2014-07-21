@@ -1,1 +1,1 @@
-pushd settings; zip -r ../settings.jar *; popd;
+pushd settings; rm settings.jar; zip -r ../settings.jar *; popd;
