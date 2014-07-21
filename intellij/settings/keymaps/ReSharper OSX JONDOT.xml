@@ -58,6 +58,9 @@
   <action id="Console.TableResult.AddRow">
     <keyboard-shortcut first-keystroke="meta alt ENTER" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="F2" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="CopyElement" />
   <action id="CopyPaths">
@@ -103,7 +106,7 @@
     <keyboard-shortcut first-keystroke="shift meta OPEN_BRACKET" />
   </action>
   <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="meta ENTER" />
+    <keyboard-shortcut first-keystroke="alt ENTER" />
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift meta L" />
@@ -147,14 +150,12 @@
   <action id="EditorScrollDown">
     <keyboard-shortcut first-keystroke="meta DOWN" />
   </action>
-  <action id="EditorScrollToCenter">
-    <keyboard-shortcut first-keystroke="meta M" />
-  </action>
+  <action id="EditorScrollToCenter" />
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="meta UP" />
   </action>
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="meta W" />
+    <keyboard-shortcut first-keystroke="meta M" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore">
@@ -170,7 +171,7 @@
     <keyboard-shortcut first-keystroke="shift meta U" />
   </action>
   <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift meta W" />
+    <keyboard-shortcut first-keystroke="shift meta M" />
   </action>
   <action id="ExportTestResults">
     <keyboard-shortcut first-keystroke="control alt U" />
@@ -388,6 +389,9 @@
     <keyboard-shortcut first-keystroke="shift meta P" />
   </action>
   <action id="ScalaConsole.Execute" />
+  <action id="ScrollTreeToCenter">
+    <keyboard-shortcut first-keystroke="control M" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="control BACK_QUOTE" />
   </action>
@@ -398,6 +402,9 @@
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="meta alt F12" />
   </action>
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta ENTER" />
+  </action>
   <action id="ShowProjectStructureSettings">
     <keyboard-shortcut first-keystroke="shift meta alt S" />
   </action>
@@ -406,7 +413,7 @@
   </action>
   <action id="ShowUsages" />
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="control alt SPACE" />
+    <keyboard-shortcut first-keystroke="meta SPACE" />
   </action>
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta E" second-keystroke="U" />
