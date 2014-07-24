@@ -19,7 +19,7 @@ _Navigation_
 *  `cmd + shift + I` - Go to start of line, like vim's `shift + I`
 *  `cmd + shift + A` - Go to end of line, like vim's `shift + A`
 * `cmd + shift + {h,j,k,l}` - navigate left,down,up,right from home row (like vim's visual mode navigation)
-* `cmd + shift + {b,e}` - previous word, next word (like vim's visual mode b,e for previous and next word)
+* `cmd + shift + {b,w}` - previous word, next word (like vim's visual mode b,w for previous and next word)
 
 
 ### Contributing
