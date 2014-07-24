@@ -21,6 +21,13 @@ _Navigation_
 * `cmd + shift + {h,j,k,l}` - navigate left,down,up,right from home row (like vim's visual mode navigation)
 * `cmd + shift + {b,w}` - previous word, next word (like vim's visual mode b,w for previous and next word)
 
+## Why not just use Intellij-Vim?
+
+I wish. Because it's buggy and messy when you want to include ReSharper multi-step
+shortcuts in addition to existing editor shortcuts; belive me, I've tried :(
+
+If you still think otherwise - please create an issue - I'd like to hear
+about it.
 
 ### Contributing
 
