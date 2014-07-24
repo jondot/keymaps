@@ -8,9 +8,17 @@ I've combined the two and made it work for OSX.
 
 * `cmd + M` - expanding selection (word/line/paragraph)
 * `cmd + Space` - Smart Completion by default
-* `Shift + Return` - Move to next line without breaking
 * `cmd + R` - Refactor. Like ReSharper (`cmd + R,V` / `cmd + R,R`)
 * `cmd + E` - Extract. Like ReSharper (`cmd + E,U` etc)
+
+_Navigation_
+
+
+* `Shift + Return` - Move to next line without breaking
+* `cmd + T` / `cmd + P` - navigate to anything (intellij's 'to type')
+*  `cmd + shift + I` - Go to start of line, like vim's `shift + I`
+*  `cmd + shift + A` - Go to end of line, like vim's `shift + A`
+* `cmd + shift + h,j,k,l` - navigate left,down,up,right from home row (like vim's visual mode navigation)
 
 
 ### Contributing
