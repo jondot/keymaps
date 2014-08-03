@@ -2,7 +2,7 @@
 
 Default Intellij keymap is based on Borland. That's way too old. ReSharper has the best keymap I've yet to bump into on an IDE, and Visual Studio makes some sense as well.
 
-I'm also exclusively working with Vim for the last 3 years.
+I'm also exclusively working with Vim for the last 3 years, and a Vim user for the last 7 years.
 
 I've combined everything and made it work for OSX.
 
